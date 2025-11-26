@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 
-
+#test
 # Set page configuration for a wide layout and add an icon
 st.set_page_config(
     page_title="SwarnaChakra: Financial Planning Companion",
